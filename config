@@ -1,0 +1,3 @@
+Host gitlab.ssc.dev
+	PreferredAuthentications publickey
+	IdentityFile ~/.ssh/cedar
